@@ -8,7 +8,10 @@ import java.awt.*;
 
 
 public class ApiNasaApplication {
-
+/*
+author: Cruz Kevin
+tema: uso de la api de la NASA
+*/
 	public static void main(String[] args) {
 		EventQueue.invokeLater(() -> {
 			try {
